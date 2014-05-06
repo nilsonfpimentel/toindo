@@ -1,0 +1,16 @@
+<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Equipe (Team)</p></font></b></H2>
+<hr>
+
+<H3 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p>Gerência</p></font></b></H3>
+
+Bruno Roberto (Configuração/Tester) --> brobertofs@gmail.com;<br>
+Renan Azeredo(Scrum Master/PO) --> renanufrpe@gmail.com;<br>
+Vinicius Acioly (Qualidade/Tester) --> vinicius.acioly@hotmail.com<br>
+
+
+<H3 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p>Processos</p></font></b></H3>
+
+Asaffe Carneiro (Desenvolvedor/DBA) --> asaffe.m@gmail.com;<br>
+Luziane Nunes (Desenvolvedor) --> luzianeenunes@gmail.com;<br>
+Nicollas Freitas (Desenvolvedor/Designer) --> cnicollas21@hotmail.com<br>
+<hr>
