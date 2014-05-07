@@ -6,6 +6,7 @@
 Bruno Roberto (Configuração/Tester) --> brobertofs@gmail.com;<br>
 Renan Azeredo(Scrum Master/PO) --> renanufrpe@gmail.com;<br>
 Vinicius Acioly (Qualidade/Tester) --> vinicius.acioly@hotmail.com<br>
+Nilson Pìmentel (Configuração/Tester) --> nilson-pimentel@hotmail.com<br>
 
 
 <H3 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p>Processos</p></font></b></H3>
