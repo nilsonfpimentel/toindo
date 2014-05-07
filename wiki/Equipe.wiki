@@ -1,4 +1,4 @@
-<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Equipe #ToIndo </p></font></b></H2>
+<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Equipe ToIndo </p></font></b></H2>
 <hr>
 
 <H3 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p>Gerência</p></font></b></H3>
