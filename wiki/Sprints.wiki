@@ -1,7 +1,7 @@
 *Sprint 1*
 
-Casos de uso:
- -UC003
+Casos de uso:   _-UC003_
+
 http://scrumy.com/brine23atriums
 
 ##########################################################################
