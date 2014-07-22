@@ -16,3 +16,20 @@ http://scrumy.com/vine98marquise
 
 
 --------------------------------
+
+
+*Sprint 3*
+
+Casos de uso: _-UC008, _-UC010_
+
+http://scrumy.com/fitly20movie
+
+
+--------------------------------
+
+
+*Sprint 4*
+
+Casos de uso: _-UC004, _-UC009_
+
+http://scrumy.com/exhort42foretold
