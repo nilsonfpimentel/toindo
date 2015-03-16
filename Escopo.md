@@ -1,0 +1,1 @@
+**Escopo:** https://docs.google.com/document/d/1Ax0ZM6HdehOYpSieDx7YLZx2emJrk_3oReqhJrIV-70/edit?usp=sharing

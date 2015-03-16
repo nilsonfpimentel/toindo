@@ -1,0 +1,1 @@
+**Regras de Negócio:** https://docs.google.com/document/d/15Rafs0gbUQZ0FcK8itbWCH2_-GloQjrf3XZamlTqJhU/edit?usp=sharing

@@ -1,0 +1,1 @@
+**Estórias de Usuário:** https://docs.google.com/spreadsheets/d/1k1mH-ChvZFqlNFWuPkqKnXoTWuUyXtzRIpBdx2Ixlys/edit?usp=sharing
